@@ -2,6 +2,8 @@
 
 #### This online application is designed to record daily notes.
 
+
+
 -------------------------------------------
 
 ## Instructions on how to run the app locally 
@@ -24,6 +26,8 @@ nodemon server
 ```
 
 Open http://localhost:3000 to view it in the browser.
+
+
 
 -------------------------------------------
 
