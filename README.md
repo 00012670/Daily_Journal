@@ -1,6 +1,6 @@
 # Daily_Journal
 
-## This online application is designed to record daily notes.
+#### This online application is designed to record daily notes.
 
 -------------------------------------------
 
