@@ -22,7 +22,7 @@ node app.js
 If you have a nodemon package, run the next command
 
 ```bash
-nodemon server
+nodemon app
 ```
 
 Open http://localhost:3000 to view it in the browser.
